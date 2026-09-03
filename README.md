@@ -1,10 +1,10 @@
 <div align="center">
 
   <!-- Animated Header / Typing SVG -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=10B981&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Md+Abdullah+Ar+Rafi;CSE+Undergrad+%40+AIUB;Full-Stack+Developer+%26+AI+Builder;Building+Modern%2C+Fast+%26+Clean+Software" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=10B981&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Md+Abdullah+Ar+Rafi;CSE+Undergrad+%40+AIUB+%F0%9F%8E%93;Problem+Solver+%26+DSA+Learner+%F0%9F%A7%A0;C%2B%2B+%7C+Java+%7C+Python+%7C+JavaScript;Building+Clean%2C+Fast+%26+Intelligent+Software+%E2%9A%A1" alt="Typing SVG" />
 
   <p align="center">
-    <strong>Computer Science & Engineering Student @ AIUB 🎓 | Passionate Software Engineer & Problem Solver 🚀</strong>
+    <strong>Computer Science & Engineering Student @ AIUB 🎓 | Passionate Problem Solver & Software Developer 🚀</strong>
   </p>
 
   <p align="center">
@@ -25,18 +25,20 @@ const rafi = {
   fullName: "MD ABDULLAH AR RAFI",
   institution: "American International University-Bangladesh (AIUB)",
   degree: "B.Sc. in Computer Science and Engineering (CSE)",
-  passions: ["Full-Stack Web Development", "Python & Django Architecture", "AI Integration & LLM Apps", "PWA Architecture", "Clean UI/UX"],
-  currentFocus: "Building high-performance, real-world utility web applications & AI tools",
-  funFact: "I believe great code is clean, intuitive, and delivers actual value to users."
+  passions: ["Problem Solving & Algorithmic Thinking", "C++ & Java Core Development", "Full-Stack Web Architectures", "AI Integration"],
+  currentlyLearning: "Data Structures & Algorithms (DSA) & Competitive Problem Solving",
+  currentProjects: ["Bachelors Heaven (Mess ERP)", "FinTrack BD (AI Finance PWA)"],
+  philosophy: "First solve the problem, understand the algorithms, then write clean code."
 };
 ```
 
-- 🎓 **Education:** Pursuing B.Sc. in CSE at **AIUB** (American International University-Bangladesh).
-- 💡 **Interests:** Modern Web Architectures, Python/Django Systems, LLM & AI Agents, Progressive Web Apps (PWA), and Software Optimization.
+- 🎓 **Education:** Pursuing B.Sc. in CSE at **American International University-Bangladesh (AIUB)**.
+- 🧠 **Current Focus:** Deep diving into **Data Structures & Algorithms (DSA)** and sharpening **Problem Solving** skills.
+- 💻 **Core Languages & Interests:** **C++**, **Java**, **Python**, Object-Oriented Programming (OOP), and Modern Web Systems.
 - 🚀 **Featured Projects:**
+  - **[Bachelors Heaven](https://github.com/arr20/bachelors-heaven)** — Full-featured Mess ERP with automated Telegram bot broadcasts & live meal rate calculations.
   - **[FinTrack BD](https://github.com/arr20/fintrack-bd)** — Personal finance & debt tracker PWA with an integrated AI financial coach (JARVIS).
-  - **[Bachelors Heaven](https://github.com/arr20/bachelors-heaven)** — Full-featured Mess & Meal Management ERP with automated Telegram bot broadcasts & PDF voucher generator.
-- 💬 **Ask me about:** Python, Django, JavaScript, React, PWA, and AI API integrations.
+- 💬 **Ask me about:** C++, Java, DSA, Python, JavaScript, and Web Development.
 - 📫 **Contact:** [`arrafibd2020@gmail.com`](mailto:arrafibd2020@gmail.com)
 
 ---
@@ -45,28 +47,33 @@ const rafi = {
 
 <div align="center">
 
-#### 🌐 Languages & Frontend
+#### 💻 Core Programming & Problem Solving
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white)
 
-#### ⚙️ Backend, AI & Tools
+#### 🌐 Frameworks, Web & Styling
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white)
+
+#### ⚙️ Databases, AI & Developer Tools
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Groq AI](https://img.shields.io/badge/Groq_AI-F55036?style=for-the-badge&logo=openai&logoColor=white)
+![Telegram API](https://img.shields.io/badge/Telegram_API-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Groq AI](https://img.shields.io/badge/Groq_AI-F55036?style=for-the-badge&logo=openai&logoColor=white)
-![Telegram API](https://img.shields.io/badge/Telegram_API-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 
 </div>
 
@@ -82,7 +89,7 @@ const rafi = {
         <a href="https://arr20.github.io/fintrack-bd/"><img src="https://img.shields.io/badge/Live_Demo-Visit_App-10b981?style=flat-square&logo=googlechrome&logoColor=white" alt="Live Demo" /></a>
         <img src="https://img.shields.io/badge/PWA-Ready-6366f1?style=flat-square" alt="PWA Ready" />
       </p>
-      <p>A full-featured Personal Finance & Expense Tracker PWA tailored for Bangladesh (BDT ৳). Features multi-wallet balances (bKash/Nagad/Cash/Card), custom category creator, debt tracking, cigarette stick tracker, and an integrated <strong>JARVIS AI Financial Coach</strong> powered by Groq LLaMA 3.3 70B.</p>
+      <p>A personal finance & debt tracking Progressive Web App tailored for Bangladesh (BDT ৳). Features multi-wallet balances (bKash/Nagad/Cash/Card), custom category creator, debt tracking, cigarette stick tracker, and an integrated <strong>JARVIS AI Financial Coach</strong> powered by Groq LLaMA 3.3 70B.</p>
       <p><strong>Tech:</strong> Pure React, Service Workers PWA, Local-first Storage, Groq AI API, Web Audio API.</p>
     </td>
     <td width="50%" valign="top">
